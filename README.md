@@ -1,2 +1,2 @@
-# bsiet-wrkshop
-This repo is used for demo in BSIET 
+# bsiet-workshop
+This repo is used for demo in BSIET COLLEGE.
